@@ -8,6 +8,7 @@
 ## Установка и запуск
 
 ```lang=shell
+npm install
 yarn install
 yarn serve
 ```
